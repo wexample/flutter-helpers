@@ -1,7 +1,7 @@
 from __future__ import annotations
 
-from wexample_wex_addon_dev_php.workdir.php_package_workdir import PhpPackageWorkdir
+from wexample_wex_addon_dev_flutter.workdir.php_package_workdir import FlutterPackageWorkdir
 
 
-class AppWorkdir(PhpPackageWorkdir):
+class AppWorkdir(FlutterPackageWorkdir):
     pass
