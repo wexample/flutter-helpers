@@ -1,4 +1,4 @@
-import 'package:flutter_helpers/helpers.dart';
+import 'package:wexample_flutter_helpers/helpers.dart';
 import 'package:test/test.dart';
 
 void main() {
