@@ -1,6 +1,6 @@
 # wexample_flutter_helpers
 
-Version: 0.0.23
+Version: 0.0.24
 
 Helper utilities for Flutter projects.
 
