@@ -5,3 +5,5 @@ global:
   name: wexample_flutter_helpers
   type: app
   version: 6.0.19
+wex:
+  version: 6.0.21
